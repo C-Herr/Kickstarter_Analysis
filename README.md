@@ -23,6 +23,6 @@ Two apparent conclusions drawn from Theater Outcomes by Launch Date are the opti
 
 This data set did not have enough information to draw any definitive conclusion on the viability of an international campaigns in the Theater/play category. I would suggest getting additional data on global Kickstarter campaigns before launching. 
 
-## Possible Charts
+## Future Visual Represenation  
 
 With this dataset, it is possible to create a chart displaying the ideal number of campaign backers for a particular campaign category. 
